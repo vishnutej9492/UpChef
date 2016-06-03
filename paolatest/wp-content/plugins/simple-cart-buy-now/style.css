@@ -1,0 +1,28 @@
+.hidden{
+	display:none;
+}
+
+.val_error{
+	color:#FF0000;
+}
+
+.val_error p{
+	margin:5px 0;
+}
+
+
+.addtocart {
+	float:right;
+	position:relative;
+}
+
+
+.addtocart p#cartname {
+	font-size: 18px;
+    line-height: 12px;
+	text-align:center;
+	padding-top:0;
+	padding-bottom:0;
+	margin-top:0;
+	margin-bottom:15px;
+}
